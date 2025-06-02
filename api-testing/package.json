@@ -1,0 +1,16 @@
+{
+  "name": "api-testing",
+  "version": "1.0.0",
+  "description": "API Testing for FakeStore API",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "axios": "^1.6.7"
+  }
+}
